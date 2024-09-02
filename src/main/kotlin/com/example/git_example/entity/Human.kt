@@ -1,4 +1,4 @@
-package entity
+package com.example.git_example.entity
 
 class Human (
     var id : Long,
